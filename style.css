@@ -1,0 +1,39 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {width:1000px ; margin:auto ;}
+
+nav {float:left ; width:25% ; }
+* {
+	margin: 0;
+	padding: 0;
+}
+
+h3 {color: blue;}
+
+h1 {
+	color: blue;
+	font-size: 20px;
+	text-align: right;
+	background-image:url('viewport.jpg');
+	background-size: cover;
+	background-position: center;
+	height: 100vh;
+}
+
+logo {
+	color: yellow;
+}
+
+p {
+	color: pink;
+}
+
+#paragraph {
+	padding: 0 30px;
+}
+
+hr {
+	height: 2px;	
+	color: pink;
+}
